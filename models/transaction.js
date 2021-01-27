@@ -1,5 +1,3 @@
-// CODE FROM MINI PROJECT/ USE-DONT USE??
-
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
