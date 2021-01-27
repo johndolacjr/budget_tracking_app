@@ -1,5 +1,3 @@
-// CODE FROM MINI PROJECT/ USE-DONT USE??
-
 let transactions = [];
 let myChart;
 
